@@ -1,7 +1,7 @@
 US Zip Code Data
 ================
 
-The data provided is based on the data provided by the Zip Code Database Projecthosted on Sourceforge: http://zips.sourceforge.net/
+The data provided is based on the data provided by the Zip Code Database Project hosted on Sourceforge: http://zips.sourceforge.net/
 
 That data itself is based on the 2000 U.S. Census. The file was released as a ZCTA (Zip Code Tabulation Areas) on the Gazetteer website: http://www.census.gov/geo/www/gazetteer/
 
